@@ -1,0 +1,1 @@
+# plindrom-and-symmetricity
